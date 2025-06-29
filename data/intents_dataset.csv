@@ -1,0 +1,1091 @@
+intent,example_sentence,response_template
+greeting,Merhaba,"Merhaba! Ben sağlık danışmanı chatbot'unuzum. Size semptomlarınız, ilaç kullanımı, doktor seçimi ve sağlıklı yaşam konularında yardımcı olabilirim. Hangi konuda bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlık konularında size praktik öneriler verebilirim. Semptomlarınızı değerlendirebilir, hangi doktora gitmeniz gerektiğini söyleyebilir, genel sağlık tavsiyeleri verebilirim."
+greeting,İyi günler,"İyi günler! Size şu konularda yardımcı olabilirim: 🩺 Semptom değerlendirmesi, 💊 İlaç bilgileri, 👨‍⚕️ Doktor yönlendirme, 💡 Sağlık tavsiyeleri. Ne ile ilgili yardıma ihtiyacınız var?"
+greeting,Günaydın,"Günaydın! Bugün sağlığınızla ilgili hangi konuda size yardımcı olabilirim? Semptomlarınızı sorabilir, sağlık tavsiyeleri alabilir veya hangi doktora gitmeniz gerektiğini öğrenebilirsiniz."
+greeting,Merhaba doktor,"Merhaba! Ben bir sağlık danışmanı AI'yım. Size genel sağlık konularında bilgi verebilirim ama tıbbi teşhis koyamam. Semptomlarınızı dinler, genel öneriler verebilir ve uygun doktora yönlendirebilirim."
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,Merhaba,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Selam,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,İyi günler,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Günaydın,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+greeting,İyi akşamlar,"Merhaba! Size semptom değerlendirmesi, doktor önerisi ve sağlık tavsiyeleri konularında yardımcı olabilirim. Ne ile ilgili bilgi almak istiyorsunuz?"
+greeting,Hey,"Selam! Sağlığınızla ilgili sorularınızı yanıtlayabilirim. Semptomlar, ilaçlar, doktor seçimi - hangi konuda yardıma ihtiyacınız var?"
+greeting,Hi,İyi günler! Size pratik sağlık önerileri verebilirim. Şikayetlerinizi dinler ve size en uygun çözüm yollarını önerebilirim.
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık danışmanı olarak size yardımcı olmak için buradayım. Hangi konuda bilgi almak istiyorsunız?
+common_symptoms,Baş ağrısı,Baş ağrısı için: 💊 Parol (500mg) veya İbuprofen (400mg) alabilirsiniz. 💧 Günde 2-3 litre su için. 😴 Karanlık odada dinlenin. 🍃 Nane yağı şakaklarınıza sürün. Ağrı 2 günden fazla sürerse nöroloji uzmanına başvurun.
+common_symptoms,Ateş,"Ateş için: 🌡️ 38.5°C altında normal, üstünde ilaç alın. 💊 Parol (500mg 6 saatte bir) veya Aspirin kullanın. 🧊 Soğuk kompres uygulayın. 💧 Bol sıvı tüketin. Ateş 3 günden fazla sürerse doktora gidin."
+common_symptoms,Öksürük,Öksürük için: 🍯 Bal + limon + ılık su karışımı için. 🌿 Ihlamur veya adaçayı demleyin. 💨 Buhar banyosu yapın. 💊 Kuru öksürükte öksürük şurubu kullanın. 2 haftadan fazla sürerse göğüs hastalıkları uzmanına gidin.
+common_symptoms,Boğaz ağrısı,Boğaz ağrısı için: 🧂 Tuzlu su ile gargara yapın (günde 3-4 kez). 🍯 Bal yalayın. 🫖 Sıcak çay için. 💊 Boğaz pastili emin. Yutkunamıyacak kadar ağırsa KBB uzmanına başvurun.
+common_symptoms,Mide ağrısı,"Mide ağrısı için: 🥄 Probiyotik yoğurt tüketin. 🌿 Papatya çayı için. 🍚 Pilav, haşlanmış patates gibi yumuşak yiyecekler tercih edin. ❌ Baharatlı, yağlı yemeklerden kaçının. Şiddetli ağrıda gastroenteroloji uzmanına gidin."
+common_symptoms,Baş dönmesi,Baş dönmesi için: 🪑 Hemen oturun veya uzanın. 💧 Su için (dehidrasyon olabilir). 🍯 Kan şekeri düşükse bal yiyin. 🧘‍♀️ Derin nefes alın. Sık tekrarlanıyorsa nöroloji veya iç hastalıkları uzmanına başvurun.
+common_symptoms,Halsizlik,Halsizlik için: 😴 Günde 7-8 saat uyuyun. 🥗 B vitamini açısından zengin gıdalar tüketin. 🚶‍♀️ Hafif egzersiz yapın. ☀️ Güneş ışığından yararlanın. 1 haftadan fazla sürerse kan tahlili yaptırın.
+common_symptoms,Uykusuzluk,Uykusuzluk için: 📱 Yatmadan 1 saat önce ekranlardan uzak durun. 🫖 Papatya çayı için. 🛁 Ilık duş alın. 🕘 Düzenli uyku saatleri oluşturun. 🧘‍♀️ Meditasyon yapın. Kronikse psikiyatrist desteği alın.
+common_symptoms,Stres,"Stres için: 🫁 4-7-8 nefes tekniği yapın (4 say içeri, 7 say tutun, 8 say dışarı). 🏃‍♀️ Günlük 30 dk yürüyüş. 🎵 Sakinleştirici müzik dinleyin. 🧘‍♀️ Yoga deneyin. Aşırı stres varsa psikolog desteği alın."
+common_symptoms,Sinirlilik,Sinirlilik için: 🥶 Soğuk su içın. 🚶‍♀️ Kısa yürüyüş yapın. 💭 10'a kadar sayın. 🎯 Dikkatinizi başka yöne çevirin. 🫖 Melisa çayı için. Sürekli öfke problemi varsa psikolog görün.
+common_symptoms,Midem bulanıyor,Bulantı için: 🫖 Zencefil çayı için. 🍋 Limon kokusunu soluyun. 🍚 Az ve sık öğün tüketin. 💊 Metoklopramid (Primperan) kullanabilirsiniz. Hamilelik şüphesi varsa jinekolog kontrolü.
+common_symptoms,Kusuyorum,"Kusma için: 💧 Sık sık az su için. ⚡ Elektrolit içeceği alın. 🍌 Muz, elma gibi yumuşak meyveler. 💊 Anti-emetik ilaç. 24 saatten fazla sürerse acil servise başvurun."
+common_symptoms,Karın ağrısı,Karın ağrısı için: 🔥 Sıcak su torbası uygulayın. 🌿 Rezene çayı için. 🚫 Katı gıda tüketmeyin. 💊 Spazmolitik (Buscopan) alabilirsiniz. Sağ alt karında ağrı varsa acil servise gidin.
+common_symptoms,İshal,İshal için: 💧 Bol sıvı alın (su kaybını önlemek için). 🧂 Tuzlu kraker yiyin. 🍌 Muz tüketin. 💊 Probiyotik kullanın. 3 günden fazla sürerse doktora başvurun.
+common_symptoms,Kabızlık,Kabızlık için: 🥗 Lifli gıdalar tüketin. 💧 Günde 2-3 litre su için. 🚶‍♀️ Düzenli yürüyüş yapın. 🫒 Sabah aç karnına zeytinyağı için. 1 haftadan fazla sürerse gastroenteroloji uzmanına gidin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Kafam ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Migrenım var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim var,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Ateşim çıktı,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Öksürüyorum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Boğazım ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Midem ağrıyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Başım dönüyor,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+common_symptoms,Yorgunum,Bu semptom için genel önerilerim var. Daha detaylı bilgi için lütfen semptomunuzu daha açık söyleyin.
+health_advice,Sağlıklı beslenme,Sağlıklı beslenme için: 🥗 Günde 5 porsiyon sebze-meyve. 🐟 Haftada 2-3 kez balık. 🌾 Tam tahıl ürünleri tercih edin. 🚫 İşlenmiş gıdalardan kaçının. 💧 Günde 8-10 bardak su içın. 🥜 Kuruyemiş ve tohum tüketin.
+health_advice,Egzersiz,Egzersiz için: 🏃‍♀️ Haftada en az 150 dk orta tempo kardiyo. 💪 Haftada 2-3 gün kuvvet antrenmanı. 🚶‍♀️ Günde 10.000 adım hedefleyin. 🧘‍♀️ Esneklik egzersizleri ekleyin. ⏰ Düzenli program oluşturun.
+health_advice,Uyku düzeni,Kaliteli uyku için: ⏰ Her gün aynı saatte yatıp kalkın. 🌙 Yatak odası serin ve karanlık olsun. 📱 Yatmadan 1 saat önce ekran kullanmayın. ☕ Akşam kafein almayın. 🛁 Gevşetici rutinler oluşturun.
+health_advice,Kilo verme,Sağlıklı kilo verme: 🍽️ Porsiyon kontrolü yapın. 🥗 Sebze ağırlıklı beslenin. 🚶‍♀️ Günlük aktivite artırın. 💧 Yemek öncesi su için. ⏰ Düzenli öğün saatleri. 📊 Haftalık 0.5-1 kg hedefleyin.
+health_advice,Stres yönetimi,Stres yönetimi için: 🧘‍♀️ Günde 10 dk meditasyon. 🫁 Derin nefes egzersizleri. 🎵 Müzik dinleyin. 📖 Hobi edinin. 👥 Sosyal destek alın. 🏃‍♀️ Düzenli egzersiz yapın.
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Spor,Spor konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Uyku,Uyku konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Stres,Stres konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Kilo,Kilo konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Vitamin,Vitamin konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Hijyen,Hijyen konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+health_advice,Beslenme,Beslenme konusunda size detaylı ve pratik öneriler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+medication_info,Ağrı kesici,"Ağrı kesici için: 💊 Parol (500mg 6 saatte bir, günde max 4 tablet). 💊 İbuprofen (400mg 8 saatte bir). 💊 Aspirin (500mg). ⚠️ Mide koruyucu ile alın. 🚫 Alkol ile kullanmayın. Max 3 gün kullanın."
+medication_info,Antibiyotik,Antibiyotik kullanımı: ⏰ Düzenli saatlerde alın. 💊 Kuru tamam bitin (yarıda bırakmayın). 🥛 Probiyotik ekleyin. 🚫 Alkol ile kullanmayın. 💊 Mide koruyucu kullanın. Yan etki görürseniz doktora danışın.
+medication_info,Vitamin,Vitamin kullanımı: ☀️ D vitamini (günde 1000 IU). 🍊 C vitamini (günde 1000mg). 💊 B kompleks. 🐟 Omega-3. 🍽️ Yemek ile alın. 🩸 Yılda 1 kez vitamin seviyenizi kontrol ettirin.
+medication_info,Aspirin,Aspirin kullanımı: 💊 Ağrı için 500mg (max günde 3 kez). 💓 Kalp koruma için 100mg (günde 1). 🥛 Mide koruyucu ile alın. 🚫 18 yaş altı kullanmasın. Kanama riski varsa doktora danışın.
+medication_info,Parol,Parol kullanımı: 💊 500mg tablet günde max 4 kez (6 saat ara ile). 👶 Çocuklarda doz vücut ağırlığına göre. 🍽️ Yemek ile veya sonrasında alın. ⚠️ Alkol ile kullanmayın. Karaciğer hastalığı varsa dikkat.
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Ağrı kesici,"Ağrı kesici hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Vitamin,"Vitamin hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Soğuk algınlığı ilacı,"Soğuk algınlığı ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Mide ilacı,"Mide ilacı hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+medication_info,Antibiyotik,"Antibiyotik hakkında size kullanım şekli, dozaj ve dikkat edilmesi gerekenler konusunda bilgi verebilirim. Mutlaka doktor veya eczacı kontrolünde kullanın."
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Hoşçakal,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Teşekkürler,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Güle güle,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+goodbye,Görüşürüz,Rica ederim! Sağlığınızla ilgili herhangi bir sorunuz olduğunda tekrar yazabilirsiniz. Sağlıklı kalın! 🌟
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Nefes alamıyorum,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Göğsüm ağrıyor,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Kalp krizi,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+emergency,Felç,🚨 ACİL DURUM! Derhal 112'yi arayın! Zaman kaybetmeyin - en yakın hastaneye gidin! Bu chatbot acil durumlar için yeterli değildir.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Teşhis koy,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Reçete yaz,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+rejection,Ameliyat gerekli mi,⚠️ Bu konuda kesin yanıt veremem çünkü tıbbi teşhis/reçete yazma yetkim yok. Size genel bilgiler verebilirim ama kesin kararlar için mutlaka doktora başvurun.
+doctor_referral,Hangi doktora gideyim,"Şikayetinize göre: 🧠 Baş ağrısı → Nöroloji, 💓 Kalp → Kardiyoloji, 🦴 Eklem ağrısı → Ortopedi, 👁️ Göz → Göz hastalıkları, 👂 Kulak → KBB, 🤰 Kadın sağlığı → Jinekoloji. Genel kontrol için pratisyen hekim yeterli."
+doctor_referral,Kardiyolog,"Kardiyoloji uzmanına şu durumlarda gidin: 💓 Göğüs ağrısı, 🫀 Çarpıntı, 🩸 Yüksek tansiyon, 🧬 Aile kalp hastalığı öyküsü. 📋 Yanınızda EKG, kan tahlili götürün."
+doctor_referral,Nöroloji,"Nöroloji uzmanına şu durumlarda: 🧠 Şiddetli baş ağrısı, 😵‍💫 Baş dönmesi, 🤲 Titreme, 😴 Uyku bozukluğu, 🧠 Hafıza sorunları. 📋 MR/BT varsa götürün."
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Kardiyoloji,Kardiyoloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Nöroloji,Nöroloji uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Ortopedi,Ortopedi uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,KBB,KBB uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+doctor_referral,Göz doktoru,Göz doktoru uzmanına hangi durumlarda gidilmesi gerektiği ve randevu süreçleri hakkında bilgi verebilirim.
+prevention,Grip korunma,"Gripten korunma: 🧼 Sık el yıkayın, 😷 Kalabalıkta maske takın, 💉 Yıllık grip aşısı, 💪 Bağışıklığı güçlendirin, 🏃‍♀️ Düzenli egzersiz, 😴 Yeterli uyku, 🍊 C vitamini alın."
+prevention,Kalp krizi korunma,"Kalp krizi korunma: 🚭 Sigara bırakın, 🏃‍♀️ Düzenli egzersiz, 🥗 Az tuzlu beslenin, ⚖️ Kilo kontrolü, 😌 Stresi azaltın, 🩺 Düzenli kontrol."
+prevention,Kanser korunma,"Kanser korunma: 🚭 Sigara bırakın, ☀️ Güneşten korunun, 🥗 Sebze-meyve tüketin, 🚫 İşlenmiş et sınırlayın, 🏃‍♀️ Aktif olun, 🍷 Alkol sınırlayın."
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Grip,Grip korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kanser,Kanser korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Kalp hastalığı,Kalp hastalığı korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Diyabet,Diyabet korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?
+prevention,Enfeksiyon,Enfeksiyon korunma yöntemleri hakkında detaylı bilgiler verebilirim. Hangi alanda özellikle bilgi almak istiyorsunuz?

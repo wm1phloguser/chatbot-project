@@ -1,0 +1,1081 @@
+intent,example_sentence,response_template
+greeting,Merhaba,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selam,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,İyi günler,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Günaydın,Günaydın! Bugün size nasıl yardımcı olabilirim?
+greeting,İyi akşamlar,İyi akşamlar! Size nasıl yardımcı olabilirim?
+greeting,Hoş geldiniz,Hoş bulduk! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhaba doktor,Merhaba! Ben bir sağlık danışmanı chatbot'uyum. Size nasıl yardımcı olabilirim?
+greeting,Hey,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selamün aleyküm,Aleykümselam! Size nasıl yardımcı olabilirim?
+greeting,Hi,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Hello,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Merhabalar,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selamlar,Selam! Sağlık konularında yardımcı olmak için buradayım.
+greeting,İyi sabahlar,İyi sabahlar! Size nasıl yardımcı olabilirim?
+greeting,Merhaba hemşire,Merhaba! Ben sağlık danışmanı chatbot'uyum. Yardımcı olabilirim.
+greeting,Selam doktor,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhaba bot,Merhaba! Sağlık danışmanı olarak size yardımcı olabilirim.
+greeting,Bana yardım et,Tabii ki! Size nasıl yardımcı olabilirim?
+greeting,Yardım lazım,Elbette! Size nasıl yardımcı olabilirim?
+greeting,Merhaba size bir sorum var,Merhaba! Sorularınızı cevaplamak için buradayım.
+greeting,Selamün aleyküm,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,İyi geceler,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Size sormak istediğim var,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Hayırlı akşamlar,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Hayırlı günler,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Selam hemşire,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Günaydın,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Merhaba doktor,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Hayırlı günler,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Nasılsın,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Hoşgeldiniz,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Selam hemşire,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,İyi akşamlar hemşire,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,İyi sabahlar,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Selam hemşire,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Nasılsınız,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Merhaba doktor,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Yardım lazım,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Selam hemşire,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Selamlar,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,İyi akşamlar,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Merhaba bot,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Merhaba doktor,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Hayırlı günler,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Nasılsınız,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhaba,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Nasılsın,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selamün aleyküm,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhabalar,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selam,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Size sormak istediğim var,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Günaydın,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Size bir sorum var,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Sağlık konusunda yardım,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Merhaba,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Yardım lazım,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selam,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,İyi sabahlar,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Hey,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selamün aleyküm,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selam hemşire,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selamün aleyküm,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Size sormak istediğim var,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Selamün aleyküm,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Bana yardım edebilir misiniz,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Hello,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhaba doktor,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Size sormak istediğim var,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Hoşgeldiniz,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,İyi akşamlar hemşire,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,İyi akşamlar hemşire,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Günaydın,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Hoşgeldiniz,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Yardım lazım,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Nasılsın,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Hello,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Selam doktor,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhaba bot,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Günaydın,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Merhaba bot,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Nasılsınız,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Hoşgeldiniz,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Nasılsın,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selam,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Hayırlı günler,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Nasılsın,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Danışmanlık lazım,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Nasılsın,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Allah'tan razı olayım,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Danışmanlık lazım,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Danışmanlık lazım,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,İyi akşamlar,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba doktor,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,İyi sabahlar,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba size bir şey soracağım,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Sağlık konusunda yardım,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Size sormak istediğim var,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Bana yardım edebilir misiniz,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Merhaba size bir şey soracağım,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Selamün aleyküm,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Danışmanlık lazım,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Bana yardım edebilir misiniz,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Selamün aleyküm,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selam hemşire,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Hi,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Sağlık olsun,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Size sormak istediğim var,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Selam,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,İyi geceler,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+greeting,Sağlık olsun,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Merhabalar,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Hi,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,Yardım lazım,Merhaba! Size nasıl yardımcı olabilirim?
+greeting,Günaydın,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Selam,Selam! Sağlık konularında size yardımcı olmak için buradayım.
+greeting,Danışmanlık lazım,İyi günler! Size nasıl yardımcı olabilirim?
+greeting,İyi geceler,Hoş geldiniz! Sağlık konularında yardımcı olabilirim.
+goodbye,Hoşçakal,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Güle güle,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,İyi günler,İyi günler! Sağlıklı kalın.
+goodbye,Görüşürüz,Görüşmek üzere! Sağlıklı günler dilerim.
+goodbye,Bay bay,Hoşçakalın! Sağlıklı kalın.
+goodbye,Teşekkürler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağ ol,Rica ederim! Her zaman yardıma hazırım.
+goodbye,Çok teşekkürler,Bu kadar naziksiniz! Sağlıklı kalın.
+goodbye,Yardım için teşekkürler,Rica ederim! Size yardımcı olabildiysem ne mutlu bana.
+goodbye,Elveda,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Bay bay,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Güle güle,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Bye,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Teşekkürler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Teşekkürler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Hoşçakal,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Bay bay,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Görüşürüz,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,İyi geceler,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağ ol,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağ ol,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Bye,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Allah'a ısmarladık,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Geçmiş olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Allah'a ısmarladık,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Hoşçakal,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Güle güle,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Güle güle,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Elveda,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Geçmiş olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Elveda,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağlıklı kal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Bay bay,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Hoşça kal,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Geçmiş olsun,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,İyi geceler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlıklı kal,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Elveda,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Geçmiş olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,İyi akşamlar,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Geçmiş olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,İyi geceler,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağ ol,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağ ol,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Sağlığın yerinde olsun,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Hoşçakal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Hoşça kal,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Hoşça kal,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,İyi günler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Bay bay,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Teşekkürler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Çok teşekkürler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Allah'a ısmarladık,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Hoşça kal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Elveda,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Çok teşekkürler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağlıklı kal,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Şifalar dilerim,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Bye,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağlığın yerinde olsun,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi akşamlar,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,İyi geceler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Çok teşekkürler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Hoşçakal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağlıklı kal,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi akşamlar,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Hoşça kal,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Bye,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Çok teşekkürler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Görüşürüz,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,İyi geceler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Güle güle,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi akşamlar,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağ ol,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Hoşçakal,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Kendine iyi bak,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Güle güle,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,İyi günler,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Sağ ol,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Şifalar dilerim,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Sağ ol,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Bay bay,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Geçmiş olsun,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Elveda,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlıklı kal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Geçmiş olsun,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Geçmiş olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Güle güle,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Çok teşekkürler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Görüşürüz,Rica ederim! Sağlıklı günler dilerim.
+goodbye,Güle güle,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Sağlığın yerinde olsun,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Hoşça kal,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Allah'a ısmarladık,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Güle güle,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Güle güle,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Bay bay,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Çok teşekkürler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Sağlığın yerinde olsun,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Bye,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağlığın yerinde olsun,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Kendine iyi bak,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Sağlıklı kal,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Teşekkürler,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Görüşürüz,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Hoşçakal,Rica ederim! Sağlıklı günler dilerim.
+goodbye,İyi günler,Görüşmek üzere! Sağlıklı kalın.
+goodbye,Görüşürüz,Güle güle! Geçmiş olsun ve sağlıklı kalın.
+goodbye,Sağlıklı kal,Hoşçakalın! Sağlıklı günler dilerim.
+goodbye,Allah'a ısmarladık,Görüşmek üzere! Sağlıklı kalın.
+emergency,Acil yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,112,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ambulans,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil servis,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kalp krizi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Felç,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok kötüyüm,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kan kusuyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Konuşamıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Yürüyemiyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok şiddetli ağrı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bilinçsizlik,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Epilepsi nöbeti,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Astım krizi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Şiddetli alerjik reaksiyon,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kaza geçirdim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Düştüm kafam çarptı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok fazla kan kaybı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Zehirlendim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,İlaç zehirlenmesi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok yüksek ateş,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Şiddetli kusma,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Karnım çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Apandisit,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kan kusuyorum ne yapmalıyım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Apandisit,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok şiddetli ağrı var,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Zehirlendim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kan kusuyorum ne yapmalıyım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Astım krizi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ambulans,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum galiba,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Yürüyemiyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu tehlikeli mi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok şiddetli ağrı var,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,İlaç zehirlenmesi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Zehirlendim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim çok kötüyüm,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Konuşamıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Epilepsi nöbeti geçiriyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bilinçsizlik,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kalp krizi geçiriyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ambulans çağırmalı mıyım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Yürüyemiyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil servis,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Epilepsi nöbeti,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok fazla kan kaybı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kalp krizi geçiriyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Yürüyemiyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kaza geçirdim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok fazla kan kaybı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Şiddetli alerjik reaksiyon,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ambulans,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bilinçsizlik,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kaza geçirdim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Karnım çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Hemen 112 aramam gerekiyor mu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Çok kötüyüm,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Karnım çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kan kusuyorum ne yapmalıyım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kaza geçirdim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ölüyorum galiba,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Felç belirtileri var,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Apandisit,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Yürüyemiyorum ne yapmalıyım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Karnım çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil servise gitmeli miyim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Göğsüm çok ağrıyor kötü hissediyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Ambulans,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Apandisit,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bilinç kaybı yaşıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Acil yardım lazım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Epilepsi nöbeti geçiriyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Astım krizi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bilinç kaybı yaşıyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Bayılacak gibiyim çok kötüyüm,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor çok korkuyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Hemen 112 aramam gerekiyor mu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kaza geçirdim,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,112,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Hemen 112 aramam gerekiyor mu,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Gözüm görmüyor,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Kalp krizi geçiriyorum,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Astım krizi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Sol kolum uyuştu tehlikeli mi,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Nefes alamıyorum yardım,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Düştüm kafam çarptı,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+emergency,Şiddetli kusma,ACİL DURUM: Lütfen derhal 112'yi arayın veya en yakın acil servise gidin!
+common_symptoms,Baş ağrısı,Baş ağrınız için bolca su için dinlenin. Eğer şiddetli ve sürekli ise doktora başvurun.
+common_symptoms,Ateş,Ateşiniz varsa dinlenin bol sıvı tüketin. 38.5°C üzerinde ise doktor kontrolü önerilir.
+common_symptoms,Öksürük,Öksürük için ıhlamur çayı içebilir dinlenebilirsiniz. 2 haftadan fazla sürerse doktora gidin.
+common_symptoms,Boğaz ağrısı,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz. Şiddetli ise doktor kontrolü gerekli.
+common_symptoms,Mide ağrısı,Mide ağrısı için hafif yiyecekler tüketin. Şiddetli ve sürekli ise doktora başvurun.
+common_symptoms,Baş dönmesi,Baş dönmesi yaşıyorsanız oturun veya uzanın. Sık tekrarlanıyorsa doktor kontrolü gerekli.
+common_symptoms,Halsizlik,Halsizlik için dinlenin ve beslenmenize dikkat edin. Uzun sürerse doktora başvurun.
+common_symptoms,Uykusuzluk,Uykusuzluk için düzenli uyku saatleri oluşturun. Kronik ise uzman yardımı alın.
+common_symptoms,Stres,Stres için nefes egzersizleri yapın meditasyon deneyin. Uzun sürerse psikolog desteği alın.
+common_symptoms,Sinirlilik,Sinirlilik hissi için derin nefes alın ve sakinleşmeye çalışın. Sürekli ise uzman yardımı alın.
+common_symptoms,Başım ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Migrenimvar,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Yutkunamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Uyuyamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım şişti,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Midem ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Öksürük var,"öksürük ilacı iç"
+common_symptoms,Sinirlerim bozuk,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım dönüyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gecenin köründe uyanıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sinirlerim bozuk,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Hazımsızlık,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Endişe,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kuru öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Öfkeliyim,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Uyuyamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Yutkunamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sabırsızlık,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Midem ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Uyuyamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Enerjim yok,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Midmede yanma,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Denge kaybı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,İnsomnia,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Stresim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Öfkeliyim,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım şişti,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kuru öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Panik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gerginlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Migrenimvar,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım dönüyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım dönüyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kuru öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim çıktı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ayağa kalkamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım dönüyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gerginlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sersemlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Denge kaybı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Halsizlik hissediyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Halsizlik hissediyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Yorgunum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım şişti,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Humma var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Uykum kaçtı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gecenin köründe uyanıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Hazımsızlık,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Öfkeliyim,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım şişti,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,İnsomnia,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Balgamlı öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Balgamlı öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Enerjim yok,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gecenin köründe uyanıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ayağa kalkamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Migrenimvar,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Öfkeliyim,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ayağa kalkamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Baş ağrısı var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Stresim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Tahammülsüzlük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Gecenin köründe uyanıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kuru öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Midmede yanma,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Panik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sersemlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Halsizlik hissediyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ayağa kalkamıyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sabırsızlık,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Başım ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Endişe,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim çıktı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Vücut sıcaklığım yüksek,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Panik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Bitkinim,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Baş ağrısı var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Halsizlik hissediyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Vücut sıcaklığım yüksek,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Karın ağrısı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Halsizlik hissediyorum,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Midem ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Uykum kaçtı,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Baş ağrısı var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Stresim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sersemlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,İnsomnia,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kafam ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kuru öksürük,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Ateşim var,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Sersemlik,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Boğazım kurdu,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Vücut sıcaklığım yüksek,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+common_symptoms,Kafam ağrıyor,"Semptomlarınız için genel öneriler verebilirim, ancak uzun sürerse doktor kontrolü önerilir."
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Yaşlı sağlığı,Sağlıklı yaşam için Yaşlı sağlığı konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Diyet,Sağlıklı yaşam için Diyet konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Bağışıklık,Sağlıklı yaşam için Bağışıklık konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Adölesan sağlığı,Sağlıklı yaşam için Adölesan sağlığı konusunda önerilerim var.
+health_advice,Kalp sağlığı,Sağlıklı yaşam için Kalp sağlığı konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Kalp sağlığı,Sağlıklı yaşam için Kalp sağlığı konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Spor,Sağlıklı yaşam için Spor konusunda önerilerim var.
+health_advice,Kadın sağlığı,Sağlıklı yaşam için Kadın sağlığı konusunda önerilerim var.
+health_advice,Kadın sağlığı,Sağlıklı yaşam için Kadın sağlığı konusunda önerilerim var.
+health_advice,Spor,Sağlıklı yaşam için Spor konusunda önerilerim var.
+health_advice,Çocuk sağlığı,Sağlıklı yaşam için Çocuk sağlığı konusunda önerilerim var.
+health_advice,Bağışıklık,Sağlıklı yaşam için Bağışıklık konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Egzersiz,Sağlıklı yaşam için Egzersiz konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Yaşlı sağlığı,Sağlıklı yaşam için Yaşlı sağlığı konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Diyet,Sağlıklı yaşam için Diyet konusunda önerilerim var.
+health_advice,Stres yönetimi,Sağlıklı yaşam için Stres yönetimi konusunda önerilerim var.
+health_advice,Sağlıklı beslenme,Sağlıklı yaşam için Sağlıklı beslenme konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Stres yönetimi,Sağlıklı yaşam için Stres yönetimi konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Egzersiz,Sağlıklı yaşam için Egzersiz konusunda önerilerim var.
+health_advice,Alkol,Sağlıklı yaşam için Alkol konusunda önerilerim var.
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Sağlıklı beslenme,Sağlıklı yaşam için Sağlıklı beslenme konusunda önerilerim var.
+health_advice,Bağışıklık,Sağlıklı yaşam için Bağışıklık konusunda önerilerim var.
+health_advice,Çocuk sağlığı,Sağlıklı yaşam için Çocuk sağlığı konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Yaşlı sağlığı,Sağlıklı yaşam için Yaşlı sağlığı konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Kalp sağlığı,Sağlıklı yaşam için Kalp sağlığı konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Bağışıklık,Sağlıklı yaşam için Bağışıklık konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Stres yönetimi,Sağlıklı yaşam için Stres yönetimi konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Hamilelik,Sağlıklı yaşam için Hamilelik konusunda önerilerim var.
+health_advice,Diş sağlığı,Sağlıklı yaşam için Diş sağlığı konusunda önerilerim var.
+health_advice,Çocuk sağlığı,Sağlıklı yaşam için Çocuk sağlığı konusunda önerilerim var.
+health_advice,Sigara,Sağlıklı yaşam için Sigara konusunda önerilerim var.
+health_advice,Kalp sağlığı,Sağlıklı yaşam için Kalp sağlığı konusunda önerilerim var.
+health_advice,Egzersiz,Sağlıklı yaşam için Egzersiz konusunda önerilerim var.
+health_advice,Spor,Sağlıklı yaşam için Spor konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Spor,Sağlıklı yaşam için Spor konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Spor,Sağlıklı yaşam için Spor konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Erkek sağlığı,Sağlıklı yaşam için Erkek sağlığı konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Sigara,Sağlıklı yaşam için Sigara konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Sigara,Sağlıklı yaşam için Sigara konusunda önerilerim var.
+health_advice,Emzirme,Sağlıklı yaşam için Emzirme konusunda önerilerim var.
+health_advice,Uyku düzeni,Sağlıklı yaşam için Uyku düzeni konusunda önerilerim var.
+health_advice,Adölesan sağlığı,Sağlıklı yaşam için Adölesan sağlığı konusunda önerilerim var.
+health_advice,Hamilelik,Sağlıklı yaşam için Hamilelik konusunda önerilerim var.
+health_advice,Uyku düzeni,Sağlıklı yaşam için Uyku düzeni konusunda önerilerim var.
+health_advice,Hamilelik,Sağlıklı yaşam için Hamilelik konusunda önerilerim var.
+health_advice,Çocuk sağlığı,Sağlıklı yaşam için Çocuk sağlığı konusunda önerilerim var.
+health_advice,Kadın sağlığı,Sağlıklı yaşam için Kadın sağlığı konusunda önerilerim var.
+health_advice,Meditasyon,Sağlıklı yaşam için Meditasyon konusunda önerilerim var.
+health_advice,Alkol,Sağlıklı yaşam için Alkol konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Kilo verme,Sağlıklı yaşam için Kilo verme konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Stres yönetimi,Sağlıklı yaşam için Stres yönetimi konusunda önerilerim var.
+health_advice,Bağışıklık,Sağlıklı yaşam için Bağışıklık konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Kemik sağlığı,Sağlıklı yaşam için Kemik sağlığı konusunda önerilerim var.
+health_advice,Su içme,Sağlıklı yaşam için Su içme konusunda önerilerim var.
+health_advice,Adölesan sağlığı,Sağlıklı yaşam için Adölesan sağlığı konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Sigara,Sağlıklı yaşam için Sigara konusunda önerilerim var.
+health_advice,Vitamin,Sağlıklı yaşam için Vitamin konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Çocuk sağlığı,Sağlıklı yaşam için Çocuk sağlığı konusunda önerilerim var.
+health_advice,Mental sağlık,Sağlıklı yaşam için Mental sağlık konusunda önerilerim var.
+health_advice,Göz sağlığı,Sağlıklı yaşam için Göz sağlığı konusunda önerilerim var.
+health_advice,Beyin sağlığı,Sağlıklı yaşam için Beyin sağlığı konusunda önerilerim var.
+health_advice,Yaşlı sağlığı,Sağlıklı yaşam için Yaşlı sağlığı konusunda önerilerim var.
+health_advice,Egzersiz,Sağlıklı yaşam için Egzersiz konusunda önerilerim var.
+health_advice,Kadın sağlığı,Sağlıklı yaşam için Kadın sağlığı konusunda önerilerim var.
+health_advice,Uyku düzeni,Sağlıklı yaşam için Uyku düzeni konusunda önerilerim var.
+medication_info,Aspirin,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Serum,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aşı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Bitkisel ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Homopatik ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aspirin,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Homopatik ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç saklama,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Mineral takviyesi,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aşı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Çocuklarda ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Ağrı kesici,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aspirin,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Homopatik ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Antibiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Yan etki,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aşı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Bitkisel ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç saklama,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Çocuklarda ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Aşı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç etkileşimi,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Parol,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Merhem,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İbuprofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Probiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Ağrı kesici,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Antibiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Homopatik ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Merhem,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Bitkisel ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Bitkisel ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Vitamin hapı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İbuprofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Yan etki,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Yan etki,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Bitkisel ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Merhem,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Vitamin hapı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Merhem,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç etkileşimi,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Probiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç saklama,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Antibiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Mineral takviyesi,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Vitamin hapı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Mineral takviyesi,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Tablet,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Reçetesiz ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Çocuklarda ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç kullanımı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Hamilelikte ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Parol,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Damla,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç saklama,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Ağrı kesici,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Vitamin hapı,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Ağrı kesici,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İlaç saklama,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Merhem,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Kapsül,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Hamilelikte ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Homopatik ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Nurofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Şurup,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Ağrı kesici,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Hamilelikte ilaç,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İgne,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,İbuprofen,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+medication_info,Antibiyotik,İlaç kullanımı konusunda mutlaka doktor veya eczacı tavsiyesi alın.
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ciddi mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ciddi mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tıbbi işlem,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tedavi planı,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tıbbi işlem,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Test sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tedavi planı,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tedavi planı,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İdrar testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,MR sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Teşhis koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,MR sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hangi hastalık,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İdrar testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hangi hastalık,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ne yapmalıyım,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tıbbi işlem,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ciddi mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İdrar testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Sağlık raporu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,MR sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Biyopsi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İdrar testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tedavi planı,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kesin çözüm,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,MR sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Röntgen yorumla,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Röntgen yorumla,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,MR sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hangi hastalık,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kesin çözüm,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ciddi mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hangi hastalık,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hangi hastalık,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Teşhis koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Biyopsi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tanı koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Sağlık raporu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Sağlık raporu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ciddi mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tıbbi işlem,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kesin çözüm,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hastalık teşhisi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tıbbi işlem,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tedavi planı,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tanı koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İdrar testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Teşhis koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Test sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hastalık teşhisi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Sağlık raporu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,İlaç reçetesi yaz,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tahlil sonucu,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Reçete ver,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tanı koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kesin çözüm,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Doktor yerine geç,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Röntgen yorumla,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat öner,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Kan testi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Biyopsi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Teşhis koy,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ne yapmalıyım,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Tomografi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Ameliyat gerekli mi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Hastalık teşhisi,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+rejection,Muayene et,"Üzgünüm, bu konuda kesin yanıt veremem. Doktor kontrolü öneriyorum."
+doctor_referral,Dış doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Eczacı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Eczacı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman branş,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Muayene,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Eczacı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Randevu,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ebe,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hemşire,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hemşire,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hastane önerisi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Teknisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Üroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Teknisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Dış doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Diyetisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hastane önerisi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Diyetisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Fizyoterapist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Özel hastane,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman doktor,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Teknisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Üroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hastane önerisi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman branş,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman branş,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Acil mi normal mi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ebe,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Acil mi normal mi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Özel hastane,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Randevu,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hemşire,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Fizyoterapist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Diyetisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman doktor,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Teknisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Fizyoterapist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ebe,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Acil mi normal mi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Eczacı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Teknisyen,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ebe,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman branş,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman branş,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Üroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hastane önerisi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Muayene,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Acil mi normal mi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kulak burun boğaz,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Kardiyolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Uzman doktor,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hangi doktora gideyim,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ortopedi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ortopedi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Nöroloji,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Dış doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ambulans,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ortopedi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Psikiyatrist,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ortopedi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Göz doktoru,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Sağlık ocağı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Eczacı,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Özel hastane,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ebe,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Jinekolog,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Ortopedi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Laborant,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+doctor_referral,Hastane önerisi,Şikayetinize göre uygun doktor önerisinde bulunabilirim.
+prevention,Tansiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kolesterol korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Spor ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kilo kontrolü,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Şeker hastalığı korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Enfeksiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Radyasyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Önleyici tedbirler,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Şeker hastalığı korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Aşı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Önleyici tedbirler,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Uyku düzeni,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Temizlik,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kilo kontrolü,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Önleyici tedbirler,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hepatit korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,El yıkama,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kilo kontrolü,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Önleyici tedbirler,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Mesafe,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Nasıl korunurum,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Aşı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Enfeksiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Alkol bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Beslenme ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Alkol bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Şeker hastalığı korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,El yıkama,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Aşı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Uyku düzeni,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Tansiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Maske,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hepatit korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Grip korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Tansiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Alkol bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kilo kontrolü,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kolesterol korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kolesterol korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Radyasyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Korona korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Korona korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Beslenme ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Korona korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kimyasal korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Mesafe,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kolesterol korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Güneş korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Stres yönetimi,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Soğuk algınlığı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hepatit korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kimyasal korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Spor ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Maske,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Spor ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Nasıl korunurum,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Mesafe,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Alkol bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Önleyici tedbirler,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Maske,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Şeker hastalığı korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Tansiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kilo kontrolü,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Aşı,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Tansiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kimyasal korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kalp krizi korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Obezite korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hijyen,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hepatit korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Şeker hastalığı korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Hepatit korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Sigara bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Alkol bırakma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Spor ile korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Temizlik,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Maske,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Grip korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Enfeksiyon korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.
+prevention,Kanser korunma,Hastalıklardan korunma yöntemleri hakkında bilgi verebilirim.

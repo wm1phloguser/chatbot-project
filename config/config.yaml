@@ -1,0 +1,6 @@
+gemini:
+  api_key: "AIzaSyBut2O2sj-IG5aOZz8x8n-uDtthbqsv6s8"
+
+app:
+  title: "Sağlık Danışmanı Chatbot"
+  description: "Genel sağlık bilgileri ve yönlendirme için chatbot"
